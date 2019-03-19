@@ -45,7 +45,6 @@ public class TimeTable {
                         count++;
                     }
                 }
-
             }
         }
         return count;
